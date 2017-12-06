@@ -1,0 +1,6 @@
+Testing with a new text file.
+
+This works for text entry.  Nwo let's see hwo the file goes into the directory
+
+- Steve
+20171206
