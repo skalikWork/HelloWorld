@@ -1,6 +1,8 @@
 Testing with a new text file.
 
-This works for text entry.  Nwo let's see hwo the file goes into the directory
+This works for text entry.  Now let's see how the file goes into the directory...
+
+Nice!
 
 - Steve
 20171206
